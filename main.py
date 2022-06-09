@@ -20,5 +20,7 @@ for n, entry in enumerate(NewsFeed.entries):
           time.sleep(0.125)
       print(entry.title)
 
+print("\n\n------------")
+
 
 print(New)
